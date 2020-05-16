@@ -1,0 +1,2 @@
+rootProject.name='SuDoKu'
+include ':app'

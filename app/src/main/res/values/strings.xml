@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuDoKu</string>
+    <string name="main_menu_sudoku_text">SuDoKu</string>
+    <string name="main_menu_sudoku_icon">main_menu_sudoku_icon</string>
+    <string name="easy_button_text">EASY</string>
+    <string name="medium_button_text">MEDIUM</string>
+    <string name="hard_button_text">HARD</string>
+    <string name="play_button_text">PLAY</string>
+</resources>
